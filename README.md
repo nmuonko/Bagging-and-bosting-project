@@ -1,1 +1,1 @@
-# Bagging-and-bosting-project
+# Bagging-and-Boosting-project
